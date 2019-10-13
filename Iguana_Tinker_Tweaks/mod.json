@@ -1,0 +1,10 @@
+{
+  "mod_id": "IguanaTweaksTConstruct",
+  "mod_name": "Iguana Tinker Tweaks",
+  "mod_dir": "/Iguana_Tinker_Tweaks/",
+  "mod_version": "2.1.6.2",
+  "mc_version": "1.7.10",
+  "mod_authors": ["boni","iguana_man"],
+  "url_website": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2176855",
+  "description": "Rebalances and adds new features to Tinkers Construct"
+}
