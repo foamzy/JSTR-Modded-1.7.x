@@ -1,0 +1,10 @@
+{
+  "mod_id": "enhancedlootbags",
+  "mod_name": "Enhanced LootBags",
+  "mod_dir": "/Enhanced_LootBags/",
+  "mod_version": "1.7.10-1.0.2a",
+  "mc_version": "1.7.10",
+  "mod_authors": ["Namikon"],
+  "url_website": "https://github.com/GTNewHorizons/EnhancedLootBags",
+  "description": "LootBags. As they should be"
+}
