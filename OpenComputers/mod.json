@@ -1,0 +1,10 @@
+{
+  "mod_id": "OpenComputers",
+  "mod_name": "OpenComputers",
+  "mod_dir": "/OpenComputers/",
+  "mod_version": "1.7.4.1265",
+  "mc_version": "1.7.10",
+  "mod_authors": ["Florian 'Sangar' Nuecke", "Johannes 'Lord Joda' Lohrer", "Everyone who contributed to the mod on Github - thank you!"],
+  "url_website": "https://oc.cil.li/",
+  "description": "This mod adds modular computers and robots that can be programmed in Lua."
+}
