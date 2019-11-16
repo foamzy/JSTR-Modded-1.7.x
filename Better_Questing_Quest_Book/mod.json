@@ -1,0 +1,10 @@
+{
+  "mod_id": "questbook",
+  "mod_name": "Better Questing Quest Book",
+  "mod_dir": "/Better_Questing_Quest_Book/",
+  "mod_version": "1.1.0",
+  "mc_version": "1.7.10",
+  "mod_authors": ["Drethic"],
+  "url_website": "",
+  "description": "Quest book to open the quest GUI to reduce keybinding collison."
+}

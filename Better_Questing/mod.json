@@ -1,0 +1,10 @@
+{
+  "mod_id": "betterquesting",
+  "mod_name": "Better Questing",
+  "mod_dir": "/Better_Questing/",
+  "mod_version": "1.0.173e_unofficial",
+  "mc_version": "1.7.10",
+  "mod_authors": ["Funwayguy"],
+  "url_website": "",
+  "description": "A new and improved questing mod for Minecraft pack creators"
+}
